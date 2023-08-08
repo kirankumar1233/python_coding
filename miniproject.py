@@ -1,0 +1,6 @@
+name=input(str('your good name please'))
+print(name)
+phn=input('please tell me your phone number')
+print(phn)
+details=input('please tell your address')
+print(details)
