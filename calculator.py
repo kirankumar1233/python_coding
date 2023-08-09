@@ -1,7 +1,7 @@
 print("                  CALCULATOR           ")
 
 print("*"*50)
-a=float(input("enter the value:"))
+a=float(input("enter the VALUE:"))
 b=float(input("enter the value:"))
 c=input("enter the operator:")
 d=a+b
